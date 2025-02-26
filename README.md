@@ -26,7 +26,7 @@ This project provides a **structured framework for Vendor Risk Assessment and Th
 - Checks for **SOC 2, ISO 27001, GDPR, HIPAA, penetration testing, and incident response plans**.
 - **📂 Deliverable:** `Vendor Compliance Audit Checklist.docx`
 
-### 5️5. Vendor Risk Review Report Template
+### 5. Vendor Risk Review Report Template
 - A structured template for **documenting risk assessments**.
 - Summarizes findings, highlights compliance gaps, and provides risk ratings.
 - **📂 Deliverable:** `Vendor Risk Assessment Report Template.docx`
